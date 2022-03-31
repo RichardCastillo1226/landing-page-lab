@@ -1,6 +1,6 @@
 *{ 
     margin: 0px;
-    width; 0px;
+    
 }
 section {
     background-color: teal;
@@ -12,5 +12,16 @@ header{
  
 main{
     width: 1137px; 
-    
+    margin: auto;
+} 
+
+.article-7 {
+    background-color: white; 
+} 
+.article-8 {
+    background-color: white; 
+} 
+
+body  {
+    background-color: grey;
 }
