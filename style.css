@@ -1,3 +1,7 @@
+*{ 
+    margin: 0;
+    width; 0;
+}
 section {
     background-color: teal;
 }
@@ -6,3 +10,7 @@ header{
     background-color: skyblue;
 }
  
+main{
+    width: 150px; 
+    
+}
