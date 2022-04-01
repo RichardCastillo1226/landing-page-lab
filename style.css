@@ -7,7 +7,10 @@ section {
 }
 
 header{
-    background-color: skyblue;
+    background-color:#e9e9e9 ;
+    width: 1000px; 
+    height: 150px; 
+    text-align: center 
 }
  
 main{
@@ -24,4 +27,9 @@ main{
 
 body  {
     background-color: grey;
+} 
+
+img {
+    position: absolute;
+    right: 484px;
 }
